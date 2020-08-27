@@ -3,4 +3,11 @@
 
     <string name="open">Open</string>
     <string name="close">Close</string>
+
+
+    <string-array name="tab_titles">
+        <item>Chat</item>
+        <item>Status</item>
+        <item>Calls</item>
+    </string-array>
 </resources>
